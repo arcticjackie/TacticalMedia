@@ -1,0 +1,107 @@
+.alert-bar {
+    margin-bottom: 0;
+    color:aliceblue;
+    border: 0;
+    text-align: center;
+}
+
+.top-nav-bar {
+    background-color: #EFEFEF;
+}
+
+.bottom-nav-bar {
+    background-color: aliceblue;
+}
+
+.outer-block {
+    background-color: white;
+    
+    /* height:300px; */
+}
+
+.inner-block-text {
+    padding-top: 2%;
+    padding-left: 3.5%
+
+}
+
+.inner-block {
+    background-color: white;
+    margin-bottom: 3%;
+    margin-left: 1.5%;
+    margin-right: 3%;
+    margin-top: 0%;
+    height: 60px;
+}
+
+.new-arrivals-parent {
+    display: flex;
+    justify-content: center;
+}
+
+.new-arrivals {
+    width: 30%;
+}
+
+.grid {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.search-bar {
+    float:right;
+}
+
+#fashionnova-logo {
+    height: 50px;
+}
+
+.fashionnova-nav {
+    background-color: black;
+}
+
+#fashionnova-search {
+    height: 50px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.alert {
+    background-color: black;
+}
+
+.product-card-description {
+    padding-top: 2%;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+
+.item1-full-images-parent {
+    display: flex;
+    justify-content: center;
+}
+
+#item1-full-images {
+    width: 60%;
+    margin-top: 5%;
+}
+
+.image-description {
+    margin-top: 50px;
+}
+
+#item1-color-picker {
+    width: 60%;
+}
+
+#description-transparency-parents {
+    display: flex;
+    justify-content: center;
+}
+
+#description-transparency {
+    width:auto;
+    margin-top: 5%;
+}
