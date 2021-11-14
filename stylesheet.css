@@ -1,3 +1,15 @@
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
 .alert-bar {
     margin-bottom: 0;
     color:aliceblue;
@@ -6,11 +18,13 @@
 }
 
 .top-nav-bar {
-    background-color: #EFEFEF;
+    background-color: white;
 }
 
 .bottom-nav-bar {
-    background-color: aliceblue;
+    background-color: white;
+    color: black;
+    font-size: 10px;
 }
 
 .outer-block {
@@ -133,5 +147,5 @@ p, ul {
     height: 370px;
 }
 
-.product-images {
-}
+/* .product-images {
+} */
