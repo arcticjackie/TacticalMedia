@@ -123,6 +123,18 @@ a:link {
     margin-bottom: 1%;
 }
 
+#reviews-parents {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+#reviews {
+    width:auto;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
 p, ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -150,3 +162,25 @@ p, ul {
 /* .product-images {
 } */
 
+.one-star-icon {
+    width: 30%;
+    margin-left: 24%;
+}
+
+#review-header-parent {
+    display: flex;
+    justify-content: center;
+}
+
+#review-header {
+    width:60%;
+    margin-bottom: 3%;
+}
+
+.mercedes-cortez-reviewer {
+    margin-left: 24%;
+}
+
+.review-top {
+    margin-top: 5%;
+}
