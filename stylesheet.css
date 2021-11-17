@@ -185,3 +185,9 @@ p, ul {
 .review-top {
     margin-top: 5%;
 }
+
+A:hover {
+    COLOR: blue; 
+    TEXT-DECORATION: none; 
+    font-weight: none
+}
